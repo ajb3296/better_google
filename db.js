@@ -32,5 +32,8 @@ db = ["linstantthe.fr",
     "pantomimaproduction.it",
     "avseetvq.pp.ua",
     "firesport.it",
-    "modelagencyddhk.cz"
+    "modelagencyddhk.cz",
+    "ebltz.it",
+    "sdplanes.it",
+    "avseetvw.pp.ua"
 ]
