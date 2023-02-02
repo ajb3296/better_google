@@ -4,7 +4,7 @@
 
 ## 설명
 
-<img align="left" class="fit-picture" src="./img/fuck.jpeg" alt="개떡같은사이트" width="200px">
+<img class="fit-picture" src="./img/fuck.jpeg" alt="개떡같은사이트" width="200px">
 
 요즘 구글 검색을 하면 광고사이트로 리다이랙션되는 사이트가 너무 많이 보인다. 광고차단 프로그램으로 실제 접속까진 차단할 수 있으나 내가 원하는건 검색결과에서 이러한 악질 사이트를 없애버리는 것이다. 그래서 링크 데이터 기반 구글 검색결과 필터링 익스텐션을 만들게 되었다.
 <br>
