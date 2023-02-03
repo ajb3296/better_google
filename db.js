@@ -36,5 +36,8 @@ db = ["linstantthe.fr",
     "sdplanes.it",
     "avseetvw.pp.ua",
     "rashne.li",
-    "kspletwalszczytno.pl"
+    "kspletwalszczytno.pl",
+    "alarmy-husnik.cz",
+    "restaurant-stb.at",
+    "prcenter.si"
 ]
