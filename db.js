@@ -13,7 +13,6 @@ db = ["linstantthe.fr",
     "parfumsjeanjacquesvivier.fr",
     "himoimmonen.fi",
     "tahkonpesa.fi",
-    "parfumsjeanjacquesvivier.fr",
     "poslovna-odlicnost.si",
     "cannagiz.si",
     "artemisnaturalia.fr",
@@ -35,5 +34,7 @@ db = ["linstantthe.fr",
     "modelagencyddhk.cz",
     "ebltz.it",
     "sdplanes.it",
-    "avseetvw.pp.ua"
+    "avseetvw.pp.ua",
+    "rashne.li",
+    "kspletwalszczytno.pl"
 ]
