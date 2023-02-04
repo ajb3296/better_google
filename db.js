@@ -43,5 +43,9 @@ db = ["linstantthe.fr",
     "ruslada.lt",
     "lejoart.it",
     "hoputten.nl",
-    "avseetv4.pp.ua"
+    "avseetv4.pp.ua",
+    "fotografzgorzelec.pl",
+    "e-biketest.de",
+    "jirikrcmar-photography.cz",
+    "gimnazjumoliwa.edu.pl"
 ]
