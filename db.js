@@ -47,5 +47,13 @@ db = ["linstantthe.fr",
     "fotografzgorzelec.pl",
     "e-biketest.de",
     "jirikrcmar-photography.cz",
-    "gimnazjumoliwa.edu.pl"
+    "gimnazjumoliwa.edu.pl",
+    "ellunkauppa.fi",
+    "horusaventure.fr",
+    "polttopuutkuopio.fi",
+    "e-ksiegarnia.edu.pl",
+    "arocapintoresmadrid.es",
+    "avseetv7.pp.ua",
+    "avseetv6.pp.ua",
+    "gite-robella.ch"
 ]
